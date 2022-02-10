@@ -20,7 +20,7 @@ Nous avons utilisé le repository de <a href="https://ultralytics.com">Ultralyti
 
 ### Labélisation des données :
 
-Nous avons utilisé RoboFlow pour taguer et augmenter les données. Ces dernières sont ensuite importées via une clé API.
+Nous avons utilisé <a href="https://roboflow.com/">RoboFlow</a> pour taguer et augmenter les données. Ces dernières sont ensuite importées via une clé API.
 
 ### Données : 
 
