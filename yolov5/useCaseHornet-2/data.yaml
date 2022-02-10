@@ -1,0 +1,7 @@
+names:
+- asian
+- european
+- other
+nc: 3
+train: useCaseHornet-2/train/images
+val: useCaseHornet-2/valid/images
