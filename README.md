@@ -16,7 +16,7 @@ Yolo est un modèle de réseau de neurone utilisé pour la détection et la clas
 
 ### Bibliothèque utilisée : 
 
-Nous avons utilisé le repository de <a href="https://ultralytics.com">Ultralytics</a> mis à jour le 25 janvier 2022.
+Nous avons utilisé le repository de <a href="https://ultralytics.com">Ultralytics</a> mis à jour le 25 janvier 2022 disponible <a href="https://github.com/ultralytics/yolov5">ici</a>.
 
 ### Labélisation des données :
 
