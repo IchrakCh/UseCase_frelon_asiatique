@@ -6,17 +6,22 @@ git clone
 pip install -r yolov5/requirements.txt  # installation des librairies utilisées
 ```
 
-Modèle utilisé : 
-Yolov5 ...
+# Modèle utilisé : 
+
+Yolov5 
+
+Yolo est un modèle de réseau de neurone utilisé pour la détection et la classification d'objet dans une image. Il permet d'identifier l'objet en générant une bounding box autour et de le classifier suivant les classes données à l'entrainement.
 
 Sources 
 
 # description du repo utilisé
 
-# description robotflow
-Nous avons utilisé RobotFlow pour taguer et augmenter les données. Ces dernières sont ensuite importées via une clé API.
+# Labélisation des données :
 
-# Données: 
+Nous avons utilisé RoboFlow pour taguer et augmenter les données. Ces dernières sont ensuite importées via une clé API.
+
+# Données : 
+
 1ere classe: Frelon Asiatique Vespa Velutina
 
 2eme classe: Frelon Européen
