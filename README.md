@@ -2,7 +2,7 @@
 # Installation
 
 ```bash
-git clone 
+git clone https://github.com/IchrakCh/UseCase_frelon_asiatique.git
 pip install -r yolov5/requirements.txt  # installation des librairies utilisées
 ```
 
