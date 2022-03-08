@@ -1,5 +1,5 @@
 
-#YOLOV5
+# YOLOV5
 
 # Installation
 
@@ -33,7 +33,7 @@ Nous avons utilisé <a href="https://roboflow.com/">RoboFlow</a> pour taguer et 
 3eme classe: Autres (abeilles, mouches, guêpes)
 
 
-#VGG16
+# VGG16
 
 # Modèle utilisé : 
 
