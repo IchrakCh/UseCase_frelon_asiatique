@@ -1,4 +1,6 @@
 
+#YOLOV5
+
 # Installation
 
 ```bash
@@ -29,3 +31,25 @@ Nous avons utilisé <a href="https://roboflow.com/">RoboFlow</a> pour taguer et 
 2eme classe: Frelon Européen
 
 3eme classe: Autres (abeilles, mouches, guêpes)
+
+
+#VGG16
+
+# Modèle utilisé : 
+
+VGG16
+
+VGG est un réseau de neurones convolutionnels qui a atteint une précision de 92.7% sur Imagenet ce qui est un des meilleurs scores obtenus. C'est un algorithme connu très souvent utilisé par transfert d’apprentissage pour éviter d’avoir à le réentraîner et résoudre des problématiques proches sur lesquelles VGG a déjà été entraîné.
+
+
+# Sources :
+
+### Données : 
+
+1ere classe: Frelon Asiatique Vespa Velutina
+
+2eme classe: Frelon Européen
+
+3eme classe: Autres (abeilles, mouches, guêpes)
+
+
